@@ -1,0 +1,32 @@
+{
+    "description": "AMD and Intel Graphics Drivers with Mesa",
+    "packages": [
+        "mesa",
+        "mesa-gl",
+        "mesa-gles",
+        "mesa-osmesa",
+        "mesa-glapi",
+        "mesa-egl",
+        "mesa-gbm",
+        "mesa-dri-gallium",
+        "mesa-va-gallium",
+        "mesa-vdpau-gallium",
+        "mesa-dev",
+
+        "vulkan-loader",
+        "vulkan-headers",
+        "vulkan-tools",
+
+        "mesa-vulkan-intel",
+        "mesa-vulkan-layers",
+        "intel-media-driver",
+        "libva-intel-driver",
+
+        "mesa-vulkan-ati",
+
+        "xf86-video-amdgpu",
+        "xf86-video-intel",
+        "xf86-video-nouveau",
+        "xf86-video-ati"
+    ]
+}

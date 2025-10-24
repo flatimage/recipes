@@ -1,0 +1,32 @@
+{
+    "description": "Pulseaudio and Pipewire Audio Libraries",
+    "packages": [
+        "alsa-lib",
+        "alsa-lib-dev",
+        "alsa-plugins-pulse",
+        "alsa-plugins-jack",
+        "alsa-utils",
+        "alsa-utils-doc",
+
+        "pulseaudio",
+        "pulseaudio-alsa",
+        "pulseaudio-bluez",
+        "pulseaudio-jack",
+        "pulseaudio-equalizer",
+        "pulseaudio-zeroconf",
+        "pulseaudio-utils",
+        "pulseaudio-dev",
+
+        "pipewire",
+        "pipewire-alsa",
+        "pipewire-jack",
+        "pipewire-pulse",
+        "pipewire-tools",
+        "pipewire-spa-bluez",
+        "pipewire-spa-vulkan",
+        "pipewire-dev",
+
+        "wireplumber",
+        "wireplumber-logind"
+    ]
+}
