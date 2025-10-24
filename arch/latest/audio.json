@@ -1,0 +1,33 @@
+{
+    "description": "Pulseaudio and Pipewire Multilib Libraries",
+    "packages": [
+        "alsa-lib",
+        "alsa-oss",
+        "alsa-plugins",
+        "alsa-tools",
+        "alsa-utils",
+        "lib32-alsa-lib",
+        "lib32-alsa-plugins",
+
+        "lib32-libpulse",
+        "libpulse",
+
+        "lib32-pipewire",
+        "pipewire",
+        "pipewire-alsa",
+        "pipewire-jack",
+        "pipewire-pulse",
+        "lib32-libpipewire",
+        "lib32-pipewire-jack",
+        "lib32-pipewire-v4l2",
+
+        "pulseaudio",
+        "pulseaudio-alsa",
+        "pulseaudio-bluetooth",
+        "pulseaudio-equalizer",
+        "pulseaudio-jack",
+        "pulseaudio-lirc",
+        "pulseaudio-zeroconf",
+        "wireplumber"
+    ]
+}
