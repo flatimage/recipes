@@ -16,7 +16,6 @@
         "pipewire",
         "pipewire-alsa",
         "pipewire-jack",
-        "pipewire-pulse",
         "lib32-libpipewire",
         "lib32-pipewire-jack",
         "lib32-pipewire-v4l2",
