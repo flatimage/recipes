@@ -4,8 +4,6 @@
         "mesa",
         "mesa-gl",
         "mesa-gles",
-        "mesa-osmesa",
-        "mesa-glapi",
         "mesa-egl",
         "mesa-gbm",
         "mesa-dri-gallium",
