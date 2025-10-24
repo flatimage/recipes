@@ -20,13 +20,11 @@
         "pipewire",
         "pipewire-alsa",
         "pipewire-jack",
-        "pipewire-pulse",
         "pipewire-tools",
         "pipewire-spa-bluez",
         "pipewire-spa-vulkan",
         "pipewire-dev",
 
-        "wireplumber",
-        "wireplumber-logind"
+        "wireplumber"
     ]
 }
