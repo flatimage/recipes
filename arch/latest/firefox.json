@@ -7,5 +7,5 @@
         "ttf-dejavu",
         "ttf-liberation"
     ],
-    "dependencies": ["xorg", "gpu"]
+    "dependencies": ["xorg", "gpu", "audio"]
 }
