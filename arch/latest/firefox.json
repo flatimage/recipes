@@ -1,0 +1,11 @@
+{
+    "description": "Firefox web browser with font support",
+    "packages": [
+        "firefox",
+        "noto-fonts",
+        "noto-fonts-emoji",
+        "ttf-dejavu",
+        "ttf-liberation"
+    ],
+    "dependencies": ["xorg", "gpu"]
+}
