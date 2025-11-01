@@ -1,5 +1,5 @@
 {
     "description": "Firefox web browser",
     "packages": ["firefox"],
-    "dependencies": ["xorg", "gpu", "audio", "fonts"]
+    "dependencies": ["xorg", "wayland", "gpu", "audio", "fonts"]
 }

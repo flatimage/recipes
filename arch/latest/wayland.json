@@ -1,0 +1,10 @@
+{
+    "description": "Wayland compositor protocol and libraries",
+    "packages": [
+        "wayland",
+        "wayland-protocols",
+        "lib32-wayland",
+        "libxkbcommon",
+        "lib32-libxkbcommon"
+    ]
+}

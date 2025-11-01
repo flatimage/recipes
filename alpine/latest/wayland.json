@@ -1,0 +1,14 @@
+{
+    "description": "Wayland compositor protocol and libraries",
+    "packages": [
+        "wayland",
+        "wayland-dev",
+        "wayland-libs-client",
+        "wayland-libs-cursor",
+        "wayland-libs-egl",
+        "wayland-libs-server",
+        "wayland-protocols",
+        "libxkbcommon",
+        "libxkbcommon-dev"
+    ]
+}
