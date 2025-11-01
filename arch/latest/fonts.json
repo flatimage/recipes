@@ -1,0 +1,9 @@
+{
+    "description": "Essential font packages for GUI applications",
+    "packages": [
+        "noto-fonts",
+        "noto-fonts-emoji",
+        "ttf-dejavu",
+        "ttf-liberation"
+    ]
+}
