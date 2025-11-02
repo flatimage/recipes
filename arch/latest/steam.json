@@ -1,0 +1,5 @@
+{
+    "description": "Steam gaming platform with hardware acceleration and multimedia support",
+    "packages": ["steam"],
+    "dependencies": ["xorg", "wayland", "gpu", "audio"]
+}
