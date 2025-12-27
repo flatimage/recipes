@@ -7,15 +7,9 @@
 
         "pulseaudio",
         "pulseaudio-utils",
-        "pulseaudio-module-bluetooth",
-        "pulseaudio-module-jack",
-        "pulseaudio-equalizer",
-        "pulseaudio-module-zeroconf",
 
         "pipewire",
         "pipewire-jack",
-        "pipewire-audio-client-libraries",
-        "libpipewire-0.3-dev",
 
         "wireplumber"
     ]
