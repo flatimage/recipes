@@ -8,7 +8,6 @@
         "pulseaudio",
         "pulseaudio-utils",
 
-        "pipewire",
-        "pipewire-jack"
+        "pipewire"
     ]
 }
