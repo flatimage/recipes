@@ -1,0 +1,10 @@
+{
+    "description": "Essential font packages for GUI applications",
+    "packages": [
+        "fonts-noto",
+        "fonts-noto-color-emoji",
+        "fonts-dejavu",
+        "fonts-liberation",
+        "fonts-liberation2"
+    ]
+}

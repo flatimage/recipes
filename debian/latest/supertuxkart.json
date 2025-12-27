@@ -1,0 +1,10 @@
+{
+    "description": "Karts. Nitro. Action! SuperTuxKart is a 3D open-source arcade racer with a variety of characters, tracks, and modes to play",
+    "packages": ["supertuxkart"],
+    "dependencies": ["xorg", "wayland", "gpu", "audio"],
+    "desktop": {
+        "name": "SuperTuxKart (FlatImage)",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/37/Logo_de_SuperTuxKart.png",
+        "categories": ["Game"]
+    }
+}

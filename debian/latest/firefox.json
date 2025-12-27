@@ -1,0 +1,10 @@
+{
+    "description": "Firefox web browser",
+    "packages": ["firefox-esr"],
+    "dependencies": ["xorg", "wayland", "gpu", "audio", "fonts"],
+    "desktop": {
+        "name": "Firefox (FlatImage)",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg",
+        "categories": ["WebBrowser", "Network"]
+    }
+}
