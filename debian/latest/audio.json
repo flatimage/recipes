@@ -4,7 +4,6 @@
         "libasound2",
         "libasound2-dev",
         "alsa-utils",
-        "alsa-plugins-pulse",
 
         "pulseaudio",
         "pulseaudio-utils",
